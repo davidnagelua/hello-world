@@ -1,2 +1,3 @@
 # hello-world
-David Nagel Hello Workd GIST604B
+David Nagel Hello World GIST604B
+Hello world this is part of and assignment. Also correcting spelling...
